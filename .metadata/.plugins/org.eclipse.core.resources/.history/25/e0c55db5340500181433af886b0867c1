@@ -1,0 +1,10 @@
+package com.vivek.codingbat;
+
+public class CodingBatSoultionsMain {
+
+	public static void main(String[] args) {
+		System.out.println("AP1 Solutions :");
+		
+	}
+
+}

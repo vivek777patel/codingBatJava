@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.vivek.codingbat.ap1.AP1Solutioin&apos; to &apos;AP1Solution&apos;&#x0D;&#x0A;- Original project: &apos;CodingBatJavaSolutions&apos;&#x0D;&#x0A;- Original element: &apos;com.vivek.codingbat.ap1.AP1Solutioin&apos;&#x0D;&#x0A;- Renamed element: &apos;com.vivek.codingbat.ap1.AP1Solution&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AP1Solutioin&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.vivek.codingbat.ap1{AP1Solutioin.java[AP1Solutioin" matchStrategy="1" name="AP1Solution" qualified="false" references="true" similarDeclarations="false" stamp="1517258404305" textual="false" version="1.0"/>
+</session>
